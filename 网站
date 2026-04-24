@@ -1,24 +1,6 @@
-# 视频/漫画站点规则
-# 包含：jable.tv, 18comic.vip, missav, supjav 等
-
-# 主域名
-DOMAIN-SUFFIX,jable.tv
-DOMAIN-SUFFIX,18comic.vip
-DOMAIN-SUFFIX,missav.com
-DOMAIN-SUFFIX,supjav.com
-
-# 备用域名和关联域名
-DOMAIN-SUFFIX,jable.org
-DOMAIN-SUFFIX,18comic.org
-DOMAIN-SUFFIX,missav.org
-DOMAIN-SUFFIX,supjav.org
 
 # 关键词匹配
 DOMAIN-KEYWORD,jable
 DOMAIN-KEYWORD,18comic
 DOMAIN-KEYWORD,missav
 DOMAIN-KEYWORD,supjav
-
-# CDN资源域名
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,akamaized.net
